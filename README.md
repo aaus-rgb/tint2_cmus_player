@@ -1,2 +1,2 @@
 # tint2_cmus_player
-A tint2rc file 
+Replace your tint2rc file with the following and place the player script on ~/.config/cmus/player
